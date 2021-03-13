@@ -29,13 +29,10 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+None.
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+[MIT](LICENSE)
 
-## Contact Information
-
-_{Add your contact information here.}_
+Copyright (c) 2021 Shanen Cross
